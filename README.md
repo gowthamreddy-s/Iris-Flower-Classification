@@ -21,6 +21,10 @@ python main.py
 ## Dataset  
 Uses the classic Iris dataset from Scikit-learn.
 
+## Model Performance
+Both KNN and Decision Tree models achieved around 96.7% average accuracy using 5-fold cross-validation.
+Final test accuracy reached 100% on both models.
+
 ## Project Details
 
 - Explored feature relationships with pairplots and heatmaps.  
