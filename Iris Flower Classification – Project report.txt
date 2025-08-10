@@ -24,8 +24,6 @@ Understood the power of EDA in revealing feature importance.
 Learned how to compare models using cross-validation.
 Realized that model performance should not be judged by accuracy alone, but also consistency and interpretability.s
 Gained practical experience in working with a clean, classic dataset using scikit-learn.
-
-🗣️ What You Can Say in an Interview:
 I trained both KNN and Decision Tree models using 5-fold cross-validation. Both achieved the same average accuracy of around 96.7%, but KNN was slightly more stable. However, the Decision Tree is more interpretable, which is useful when explaining predictions to non-technical stakeholders.
 
 
